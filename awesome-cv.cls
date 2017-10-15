@@ -373,7 +373,7 @@
 \newcommand{\acvHeaderIconSep}{\space}
 \newcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 \newcommand{\acvHeaderAfterSocialSkip}{6mm}
-\newcommand{\acvHeaderAfterQuoteSkip}{5mm}
+\newcommand{\acvHeaderAfterQuoteSkip}{2mm}
 
 % Others
 \newcommand{\acvSectionTopSkip}{3mm}
